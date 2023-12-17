@@ -1,0 +1,22 @@
+img
+{
+    width: 100%;
+}
+
+.curriculum_header
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.curriculum_header i
+{
+    float: right;
+}
+
+#cur-img
+{
+    width: 20%;
+}
